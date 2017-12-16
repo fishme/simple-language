@@ -1,0 +1,58 @@
+[
+    {
+      "key": "dog",
+      "english": {
+        "word": "dog",
+        "alternatives": ["hound"],
+        "fakes": [
+          "cat",
+          "rabbit"
+        ]},
+      "german": {
+        "word": "hund",
+        "alternatives": [],
+        "fakes": [
+          "katze",
+          "hase"
+        ]
+      }
+    },
+    {
+      "key": "cat",
+      "english": {
+        "word": "cat",
+        "alternatives": [],
+        "fakes": [
+          "dog",
+          "rabbit"
+        ]
+      },
+      "german": {
+        "word": "katze",
+        "alternatives": [],
+        "fakes": [
+          "hund",
+          "hase"
+        ]
+      }
+    },
+    {
+      "key": "rabbit",
+      "english": {
+        "word": "rabbit",
+        "alternatives": ["bunny"],
+        "fakes": [
+          "dog",
+          "cat"
+        ]
+      },
+      "german": {
+        "word": "hase",
+        "alternatives": ["Kaninchen"],
+        "fakes": [
+          "hund",
+          "katze"
+        ]
+      }
+    }
+  ]
